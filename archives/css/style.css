@@ -1,0 +1,6 @@
+.text-box {
+  position: fixed; /* or absolute if you prefer */
+  bottom: 0;
+  left: 0;
+  width: 100%; /* Optional: to make it span the full width */
+}

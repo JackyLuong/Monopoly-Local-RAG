@@ -1,0 +1,10 @@
+pypdf
+langchain
+chromadb # Vector storage
+pytest
+boto3
+langchain_ollama
+langchain_chroma
+customtkinter
+pillow
+pywinstyles
